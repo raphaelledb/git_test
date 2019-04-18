@@ -1,0 +1,1 @@
+This is Raphaelle's first git project!"
